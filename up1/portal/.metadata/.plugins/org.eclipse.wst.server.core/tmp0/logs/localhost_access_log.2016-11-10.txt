@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [10/Nov/2016:15:39:16 +0530] "GET /PortalCheck/ HTTP/1.1" 200 3687
+0:0:0:0:0:0:0:1 - - [10/Nov/2016:15:39:17 +0530] "GET /PortalCheck/resources/images/cs.png;jsessionid=5ED72D7D746602406C796C0CBC578E49 HTTP/1.1" 200 14818
+0:0:0:0:0:0:0:1 - - [10/Nov/2016:15:39:17 +0530] "GET /PortalCheck/resources/images/1.jpg;jsessionid=5ED72D7D746602406C796C0CBC578E49 HTTP/1.1" 200 362966
+0:0:0:0:0:0:0:1 - - [10/Nov/2016:15:39:17 +0530] "GET /PortalCheck/resources/images/5.jpg;jsessionid=5ED72D7D746602406C796C0CBC578E49 HTTP/1.1" 200 125580
+0:0:0:0:0:0:0:1 - - [10/Nov/2016:15:39:17 +0530] "GET /PortalCheck/resources/images/3.jpg;jsessionid=5ED72D7D746602406C796C0CBC578E49 HTTP/1.1" 200 388241
+0:0:0:0:0:0:0:1 - - [10/Nov/2016:15:39:17 +0530] "GET /PortalCheck/resources/images/2.jpg;jsessionid=5ED72D7D746602406C796C0CBC578E49 HTTP/1.1" 200 468673
+0:0:0:0:0:0:0:1 - - [10/Nov/2016:15:39:17 +0530] "GET /PortalCheck/resources/css/bootstrap.min.css;jsessionid=5ED72D7D746602406C796C0CBC578E49 HTTP/1.1" 200 121260
+0:0:0:0:0:0:0:1 - - [10/Nov/2016:15:39:17 +0530] "GET /PortalCheck/resources/images/4.jpg;jsessionid=5ED72D7D746602406C796C0CBC578E49 HTTP/1.1" 200 787617
+0:0:0:0:0:0:0:1 - - [10/Nov/2016:15:39:17 +0530] "GET /PortalCheck/resources/js/bootstrap.min.js;jsessionid=5ED72D7D746602406C796C0CBC578E49 HTTP/1.1" 200 36868
+0:0:0:0:0:0:0:1 - - [10/Nov/2016:15:39:17 +0530] "GET /PortalCheck/resources/fonts/glyphicons-halflings-regular.eot? HTTP/1.1" 200 20127
